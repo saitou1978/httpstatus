@@ -1,7 +1,4 @@
 ## cgi-bin/index.cgi
-### Demo
-http://viruupaaksa.com/
-
 ### Usage
 
 ```
